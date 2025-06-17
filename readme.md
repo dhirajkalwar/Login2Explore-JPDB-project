@@ -57,7 +57,7 @@ The interface is built using **TailwindCSS** and **Bootstrap**, offering a clean
 ## Illustrations
 
 > UI Snapshot:  
-> ![shipment-form-ui](https://via.placeholder.com/800x400?text=Shipment+Form+UI)
+> ![shipment-form-ui](https://i.postimg.cc/Gtqp7ctg/Screenshot-2025-06-17-223657.png)
 
 > Button Functionality:
 
